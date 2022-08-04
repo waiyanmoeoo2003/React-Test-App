@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Watch Boku no Pico",
+      "day": "Friday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Play CS:GO",
+      "day": "Everydat",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
